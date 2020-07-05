@@ -39,3 +39,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# JetBrains configuration
+.idea
