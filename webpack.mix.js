@@ -19,5 +19,6 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/page-header.scss', 'public/css')
     .sass('resources/sass/projects/standard.scss', 'public/css/projects')
     .sass('resources/sass/projects/narrow.scss', 'public/css/projects')
-    .sass('resources/sass/project-details.scss', 'public/css')
+    .sass('resources/sass/project-details/standard.scss', 'public/css/project-details')
+    .sass('resources/sass/project-details/narrow.scss', 'public/css/project-details')
 ;
