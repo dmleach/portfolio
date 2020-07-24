@@ -13,7 +13,9 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css')
-    .sass('resources/sass/career.scss', 'public/css')
+    .sass('resources/sass/career/standard.scss', 'public/css/career')
+    .sass('resources/sass/career/narrow.scss', 'public/css/career')
+    .sass('resources/sass/home.scss', 'public/css')
     .sass('resources/sass/page-footer.scss', 'public/css')
     .sass('resources/sass/page-header.scss', 'public/css')
     .sass('resources/sass/projects.scss', 'public/css')
