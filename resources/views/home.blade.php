@@ -1,9 +1,16 @@
 @extends('layouts.main')
 
-@section('content')
-    <p>This is the home page</p>
-@endsection
-
 @push('css')
     <link rel="stylesheet" href="{{ asset('css/home.css') }}">
 @endpush
+
+@section('content')
+    <div class="home-content">
+        <img src="{{ asset('storage/images/headshot.jpeg') }}" alt="A picture of Dave" />
+        <p class="home-content-text">
+            Hi! I'm Dave Leach a developer who creates webpages using PHP and desktop software using Delphi. I live in
+            Seattle, Washington.
+        </p>
+    </div>
+@endsection
+
