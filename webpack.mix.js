@@ -17,6 +17,7 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/career/narrow.scss', 'public/css/career')
     .sass('resources/sass/page-footer.scss', 'public/css')
     .sass('resources/sass/page-header.scss', 'public/css')
-    .sass('resources/sass/projects.scss', 'public/css')
+    .sass('resources/sass/projects/standard.scss', 'public/css/projects')
+    .sass('resources/sass/projects/narrow.scss', 'public/css/projects')
     .sass('resources/sass/project-details.scss', 'public/css')
 ;
