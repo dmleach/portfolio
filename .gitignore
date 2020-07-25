@@ -42,3 +42,7 @@ Homestead.json
 
 # JetBrains configuration
 .idea
+
+# Generated CSS and JS files
+public/css
+public/js
