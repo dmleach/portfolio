@@ -6,7 +6,7 @@
 
 @section('content')
     <div class="home-content">
-        <img src="{{ asset('storage/images/headshot.jpeg') }}" alt="A picture of Dave" />
+        <img src="{{ asset('images/headshot.jpeg') }}" alt="A picture of Dave" />
         <p class="home-content-text">
             Hi! I'm Dave Leach a developer who creates webpages using PHP and desktop software using Delphi. I live in
             Seattle, Washington.
