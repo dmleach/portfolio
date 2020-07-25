@@ -3,9 +3,12 @@
     "/css/app.css": "/css/app.css",
     "/css/career/standard.css": "/css/career/standard.css",
     "/css/career/narrow.css": "/css/career/narrow.css",
-    "/css/home.css": "/css/home.css",
+    "/css/home/standard.css": "/css/home/standard.css",
+    "/css/home/narrow.css": "/css/home/narrow.css",
     "/css/page-footer.css": "/css/page-footer.css",
     "/css/page-header.css": "/css/page-header.css",
-    "/css/projects.css": "/css/projects.css",
-    "/css/project-details.css": "/css/project-details.css"
+    "/css/projects/standard.css": "/css/projects/standard.css",
+    "/css/projects/narrow.css": "/css/projects/narrow.css",
+    "/css/project-details/standard.css": "/css/project-details/standard.css",
+    "/css/project-details/narrow.css": "/css/project-details/narrow.css"
 }
