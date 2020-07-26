@@ -42,3 +42,7 @@ Homestead.json
 
 # JetBrains configuration
 .idea
+
+# 7/25/2020 - DML - Don't version control these generated files
+public/css
+public/js
