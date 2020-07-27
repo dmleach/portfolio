@@ -7,6 +7,6 @@ return [
         "I have over twenty years' experience in software development.",
         "I create webpages using PHP.",
         "I create desktop software using Delphi.",
-        "You can reach me at dave@davedoeswork.com",
+        "You can reach me at dave @ davedoeswork.com",
     ],
 ];
